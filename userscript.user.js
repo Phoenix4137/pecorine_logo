@@ -2,8 +2,10 @@
 // @name         r/place templater
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the canvas! Made by 
+// @description  try to take over the canvas! 
 // @author       Phoenix, kinda
+// @match        https://hot-potato.reddit.com/embed*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        GM_xmlhttpRequest
 
 // ==/UserScript==
